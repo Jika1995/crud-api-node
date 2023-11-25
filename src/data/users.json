@@ -1,0 +1,27 @@
+[
+    {
+        "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+        "username": "john_doe",
+        "age": 25,
+        "hobbies": [
+            "reading",
+            "hiking"
+        ]
+    },
+    {
+        "id": "6ba7b811-9dad-11d1-80b4-00c04fd430c8",
+        "username": "jane_smith",
+        "age": 30,
+        "hobbies": [
+            "painting",
+            "gardening",
+            "traveling"
+        ]
+    },
+    {
+        "id": "6ba7b812-9dad-11d1-80b4-00c04fd430c8",
+        "username": "sam_jackson",
+        "age": 22,
+        "hobbies": []
+    }
+]
